@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addOn>
+  <identifier>ce824f67-e87e-4e18-be78-0c32965163bd</identifier>
+  <displayType>Simulink Model</displayType>
+  <translatedDisplayType>
+    <en_US>Simulink Model</en_US>
+    <es_ES>Simulink Model</es_ES>
+    <es_MX>Simulink Model</es_MX>
+    <ja_JP>Simulink モデル</ja_JP>
+    <ko_KR>Simulink 모델</ko_KR>
+    <zh_CN>Simulink 模型</zh_CN>
+  </translatedDisplayType>
+  <name>MPPT PV by cuckoo search algorithm under partial shading</name>
+  <author>solar energy</author>
+  <version>1.0.0</version>
+  <downloadUrl>https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/ce824f67-e87e-4e18-be78-0c32965163bd/936fcaa9-3bdc-41ec-83b0-3bc8c7ea24aa/packages/zip?src=addons_ml_desktop_install&amp;profile_id=14854844&amp;license=40755015&amp;release_family=R2021a</downloadUrl>
+  <licenseUrl>https://addons.mathworks.com/registry/v1/ce824f67-e87e-4e18-be78-0c32965163bd/1.0.0.0/-/license</licenseUrl>
+  <previewImageUrl>https://www.mathworks.com/responsive_image/160/120/0/0/0/cache/matlabcentral/mlc-downloads/downloads/ce824f67-e87e-4e18-be78-0c32965163bd/936fcaa9-3bdc-41ec-83b0-3bc8c7ea24aa/images/thumbnail.png</previewImageUrl>
+  <releaseNotesUrl>https://www.mathworks.com/add-ons/ce824f67-e87e-4e18-be78-0c32965163bd/936fcaa9-3bdc-41ec-83b0-3bc8c7ea24aa/releaseNotes</releaseNotesUrl>
+  <installationFolder>Simulink Models</installationFolder>
+</addOn>

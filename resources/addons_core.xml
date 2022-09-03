@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addonCore>
+  <label>MPPT PV by cuckoo search algorithm under partial shading</label>
+  <version>1.0.0</version>
+  <type>zip</type>
+  <identifier>ce824f67-e87e-4e18-be78-0c32965163bd</identifier>
+  <createdBy name="solar energy"/>
+  <image>resources/screenshot.png</image>
+</addonCore>
