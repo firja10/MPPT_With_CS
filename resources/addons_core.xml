@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addonCore>
-  <label>MPPT PV by cuckoo search algorithm under partial shading</label>
-  <version>1.0.0</version>
+  <label>MPPT using Cuckoo Search Algorithm(CSA) for partially shaded PV array</label>
+  <version>1.0.0.0</version>
   <type>zip</type>
-  <identifier>ce824f67-e87e-4e18-be78-0c32965163bd</identifier>
-  <createdBy name="solar energy"/>
+  <identifier>05acc682-447c-46a9-b02e-91882aff349e</identifier>
+  <createdBy name="Aravind Easwar"/>
   <image>resources/screenshot.png</image>
 </addonCore>
